@@ -163,6 +163,7 @@ A curated list of amazingly awesome redis and redis ecosystem resources. Inspire
 * [flask-rq](https://github.com/mattupstate/flask-rq) - [rq](https://github.com/nvie/rq) integration for Flask applications
 * [Celery](https://github.com/ask/celery) - Python task queue. Supports multiple backends. (Python)
 * [redis-smq](https://github.com/weyoss/redis-smq) - A simple high-performance Redis message queue for Node.js.
+* [BetterQueue](https://github.com/Saiop68/better-queue) - Distributed rate limiter and job queue for Node.js. Queue state lives in Redis, so limiters are cheap and jobs survive a restart. (Node.js)
 
 ---
 ## Higher level libraries and tools
